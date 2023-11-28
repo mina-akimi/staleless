@@ -1,8 +1,9 @@
 {
   "name": "@mina-akimi/staleless",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Zero dependency lib to solve stale state in React",
   "author": "Minasan Akimi",
+  "repository": "https://github.com/mina-akimi/staleless",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
